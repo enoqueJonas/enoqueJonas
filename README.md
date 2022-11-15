@@ -7,7 +7,7 @@ const enoqueMacanda = {
   code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS],
   askMeAbout: [Chess, Digital Marketing, Gym, MMA],
   challenge: "I am honing my JavaScript skills",
-  funFacts: ['I'm ready to work the right offer']
+  funFacts: [' I'm ready to work for the right offer ']
 }
 ```
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enoqueJonas)](https://github.com/anuraghazra/github-readme-stats)
