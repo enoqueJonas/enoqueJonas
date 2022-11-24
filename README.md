@@ -1,5 +1,4 @@
 # Hello, I'm Enoque Macanda.
-![Enoque macanda](https://user-images.githubusercontent.com/76396858/201749672-5cac8520-ec93-4b5d-a137-b47fc502e5db.png) 
 ```javascript
 const enoqueMacanda = {
   lookingFor: "Back-end developer" || "Full-stack web developer",
@@ -10,5 +9,7 @@ const enoqueMacanda = {
   funFacts: [' I'm ready to work for the right offer ']
 }
 ```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enoqueJonas)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enoqueJonas&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Enoque GitHub stats](https://github-readme-stats.vercel.app/api?username=enoqueJonas&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Enoque wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=enoqueJonas&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
