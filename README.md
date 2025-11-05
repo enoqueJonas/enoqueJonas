@@ -1,7 +1,7 @@
 # Hello, I'm Enoque Macanda.
 ```javascript
 const enoqueMacanda = {
-  lookingFor: "Back-end developer" || "Full-stack web developer",
+  lookingFor: "Software Test Engineer" || "Full-stack web developer",
   pronouns: ["he", "him"],
   code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS],
   askMeAbout: [Chess, Digital Marketing, Gym, MMA],
